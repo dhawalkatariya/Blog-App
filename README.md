@@ -15,7 +15,7 @@ Before running the application, ensure that you have the following installed:
 ```
 2. Change to the project's directory:
 ```
-  $ cd blog-app
+  $ cd Blog-App
 ```
 3. Install the required dependencies using pip:
 ```
